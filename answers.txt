@@ -8,4 +8,4 @@ A)If there are two branches and one of the branch have additional commits that t
 A)Branches are important in Git. They are the alternative timelines of the project.Having different branches will help us to work on different contexts so that we can try new things and most importantly we can work on multiple ideas in parallel.
 
 4)In a project how many remote Git repositories do you usually have?
-A)We can have multiple any number of remote Git repositories for our project. 
+A)We can have multiple any number of remote Git repositories for our project.
